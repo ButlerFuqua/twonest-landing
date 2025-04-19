@@ -28,7 +28,7 @@ export default function LandingPage() {
       <section className="relative overflow-hidden py-20 md:py-32">
         <div className="container relative z-10 mx-auto px-4 text-center">
           <h1 className="mb-6 text-4xl font-bold tracking-tight md:text-6xl">
-            Co-Parent Smarter. <span className="text-teal-600">Raise Stronger.</span>
+            Two nests, <span className="text-teal-600">one family.</span>
           </h1>
           <p className="mx-auto mb-10 max-w-2xl text-xl text-muted-foreground">
             Because your child deserves clarity, not chaos.
