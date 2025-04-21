@@ -26,7 +26,8 @@ export const metadata: Metadata = {
     siteName: "TwoNest",
     images: [
       {
-        url: "https://www.twonest.app/opengraph-image.png",
+        url: "/images/site-thumbnail.png",
+        // url: "https://www.twonest.app/opengraph-image.png", // TODO: use component approach
         width: 1200,
         height: 630,
         alt: "TwoNest - Co-Parent Smarter. Raise Stronger.",
@@ -38,7 +39,8 @@ export const metadata: Metadata = {
     title: "TwoNest - Co-Parent Smarter. Raise Stronger.",
     description:
       "A better way to co-parent without the conflict. Share routines, rules, and updates without direct communication.",
-    images: ["https://www.twonest.app/twitter-image.png"],
+    images: ["/images/site-thumbnail.png"],
+    // images: ["https://www.twonest.app/twitter-image.png"], // TODO: use component approach
     creator: "@twonestapp",
   },
   icons: {
