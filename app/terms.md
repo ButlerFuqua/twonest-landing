@@ -1,5 +1,7 @@
 # Terms and Conditions of Use
 
+These Terms and Conditions ("Terms") govern your use of the TwoNest platform ("TwoNest", "we", "our", or "us"). TwoNest refers to the individual creator and operator of this service, which includes the mobile app, website, and all related features.
+
 These terms may change at any time with or without notification.
 
 Welcome to TwoNest, a communication platform designed to support co-parents in sharing child-related updates, routines, and information. By accessing or using the TwoNest mobile application or website ("Service"), you agree to be bound by the following Terms and Conditions ("Terms").
