@@ -26,7 +26,6 @@ export const metadata: Metadata = {
     siteName: "TwoNest",
     images: [
       {
-        url: "/images/site-thumbnail.png",
         url: "https://www.twonest.app/opengraph-image.png",
         width: 1200,
         height: 630,
