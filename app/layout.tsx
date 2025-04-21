@@ -8,7 +8,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "TwoNest - Co-Parent Smarter. Raise Stronger.",
+  title: "TwoNest - Two nests, one family.",
   description:
     "TwoNest lets you share routines, rules, and updates without direct communication—so your child can experience consistency across both homes without being exposed to conflict.",
   metadataBase: new URL("https://www.twonest.app"),
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://www.twonest.app",
-    title: "TwoNest - Co-Parent Smarter. Raise Stronger.",
+    title: "TwoNest - Two nests, one family.",
     description:
       "A better way to co-parent without the conflict. Share routines, rules, and updates without direct communication.",
     siteName: "TwoNest",
@@ -30,13 +30,13 @@ export const metadata: Metadata = {
         // url: "https://www.twonest.app/opengraph-image.png", // TODO: use component approach
         width: 1200,
         height: 630,
-        alt: "TwoNest - Co-Parent Smarter. Raise Stronger.",
+        alt: "TwoNest - Two nests, one family.",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "TwoNest - Co-Parent Smarter. Raise Stronger.",
+    title: "TwoNest - Two nests, one family.",
     description:
       "A better way to co-parent without the conflict. Share routines, rules, and updates without direct communication.",
     images: ["/images/site-thumbnail.png"],
