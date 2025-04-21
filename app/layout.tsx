@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "TwoNest - Co-Parent Smarter. Raise Stronger.",
   description:
     "TwoNest lets you share routines, rules, and updates without direct communication—so your child can experience consistency across both homes without being exposed to conflict.",
-  metadataBase: new URL("https://www.app.twonest.app"),
+  metadataBase: new URL("https://www.twonest.app"),
   keywords: ["co-parenting", "parenting app", "child custody", "parenting communication", "family management"],
   authors: [{ name: "TwoNest" }],
   creator: "TwoNest",
@@ -19,14 +19,14 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://www.app.twonest.app",
+    url: "https://www.twonest.app",
     title: "TwoNest - Co-Parent Smarter. Raise Stronger.",
     description:
       "A better way to co-parent without the conflict. Share routines, rules, and updates without direct communication.",
     siteName: "TwoNest",
     images: [
       {
-        url: "https://www.app.twonest.app/images/site-thumbnail.png",
+        url: "https://www.twonest.app/images/site-thumbnail.png",
         width: 1200,
         height: 630,
         alt: "TwoNest - Co-Parent Smarter. Raise Stronger.",
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
     title: "TwoNest - Co-Parent Smarter. Raise Stronger.",
     description:
       "A better way to co-parent without the conflict. Share routines, rules, and updates without direct communication.",
-    images: ["https://www.app.twonest.app/images/site-thumbnail.png"],
-    creator: "@twonestapp",
+    images: ["https://www.twonest.app/images/site-thumbnail.png"],
+    // creator: "@twonestapp",
   },
   icons: {
     icon: [
