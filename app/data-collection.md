@@ -1,6 +1,6 @@
 # Data Collection and Usage Policy
 
-**Effective Date:** [Insert Date]
+This policy may change at any time with or without notification.
 
 TwoNest collects limited data necessary to provide and improve the app experience. This document outlines what we collect and how it is used.
 
@@ -8,7 +8,7 @@ TwoNest collects limited data necessary to provide and improve the app experienc
 
 - **User Data:** Email address and optional name
 - **Child & Group Data:** Names, notes, routines, rules, or updates you input
-- **Interaction Data:** Posts, comments, invitation responses
+- **Interaction Data:** Posts, comments, invitations, invitations responses
 - **Device Data:** IP address, browser type, basic analytics for usage tracking
 
 ## 2. How Data Is Used
@@ -32,7 +32,4 @@ We retain your data as long as your account is active. Upon deletion, associated
 
 ## 6. Contact
 
-Questions about data collection? Email us at [support@twonest.app]
-\`\`\`
-
-Now, let's create a utility function to read and parse markdown files:
+Questions about data collection? Email us at [twonestapp@gmail.com]

@@ -1,13 +1,15 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
-
 TwoNest LLC ("we", "our", "us") values your privacy. This Privacy Policy explains how we collect, use, and share information when you use our app and website.
+
+This policy may change at any time with or without notification.
 
 ## 1. Information We Collect
 
+Do not share any private
+
 - **Account Info:** Email, name (if provided), authentication data.
-- **Child Data:** Information you input about children or routines, including names, notes, or preferences.
+- **Child Data:** Information you input about children or routines, including names, notes, or any posts to the app.
 - **Usage Info:** Device type, IP address, browser type, and basic analytics.
 
 ## 2. How We Use Your Information
@@ -22,7 +24,7 @@ We store your data using secure cloud infrastructure with industry-standard safe
 
 ## 4. Sharing and Disclosure
 
-- We do **not** sell your personal data.
+- We do **not** sell your personal data to third parties.
 - Your information may be shared with:
   - Your invited co-parent(s)
   - Guests approved by both parents (if applicable)
@@ -34,7 +36,7 @@ This app is designed for use by adults managing information related to their chi
 
 ## 6. Your Rights
 
-You may request to view, modify, or delete your data by contacting [support@twonest.app]. Deleting your account may remove all associated data.
+You may request to view, modify, or delete your data by contacting [twonestapp@gmail.com]. Deleting your account may remove all associated data.
 
 ## 7. Updates to Policy
 
@@ -42,4 +44,4 @@ We may revise this Privacy Policy. Continued use of the platform implies accepta
 
 ## 8. Contact
 
-Questions? Reach out to [support@twonest.app]
+Questions? Reach out to [twonestapp@gmail.com]
